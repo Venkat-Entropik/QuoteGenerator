@@ -5,5 +5,5 @@ onclickButtonHandler.addEventListener('click',function(){
     let num=Math.random()*quotesArray.length;
     let index=parseInt(num);
     quotes.innerText=quotesArray[index].text;
-    nthor.innerText=quotesArray[index].author; // hhis is soft
+    gunthor.innerText=quotesArray[index].author; // this is hard
 })
