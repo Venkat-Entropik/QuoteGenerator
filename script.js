@@ -1,4 +1,4 @@
-const quotes=document.getElementById('quote');
+const quotes=document.getElementById('quote'); // this is javascript function
 const author=document.getElementById('author');
 const clickButton=document.getElementById('but');
 clickButton.addEventListener('click',function(){
